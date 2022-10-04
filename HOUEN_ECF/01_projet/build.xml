@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="01_projet" default="init" basedir=".">
+
+    <!-- CIBLE INIT -->
+    <target name="init">
+        <mkdir dir="${basedir}/src"/>
+        <mkdir dir="${basedir}/build/classes"/>
+        <mkdir dir="${basedir}/dist"/>
+        <touch file="src/MonApp.java"/>
+        <touch file="build/classes/MonApp.class"/>
+        <touch file="dist/monapp.jar"/>
+    </target>
+
+    <!-- CIBLE CLEAN -->
+    <target name="clean">
+        <delete dir="${basedir}/src"/>
+        <delete dir="${basedir}/build"/>
+        <delete dir="${basedir}/dist"/>
+    </target> 
+
+</project>
+ 

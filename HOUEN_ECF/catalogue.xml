@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogue>
+    <carteSD>
+        <titre>Kingston - SDC4 - Carte Micro SDHC 8 Go (class 4) - Adaptateur SD</titre>
+        <type>Carte Micro SDHC</type>
+        <class>4</class>
+        <accesoire>Adaptateur SD</accesoire>
+        <capacite>8 Go</capacite>
+        <marque>Kingston technology</marque>
+        <tarif>6.55</tarif>
+        <devise>euros</devise>
+        <livraison>Livraison gratuite dès 25 EUR d'achats en France métropolitaine.</livraison>
+        <Stock>En stock</Stock>
+        <etoiles>4</etoiles>
+        <commentaires>2040</commentaires>
+        <reponses>84</reponses>
+        <img>./catalogue/Kingston_microSD.jpg</img>
+    </carteSD>
+</catalogue>
